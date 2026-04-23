@@ -1,0 +1,73 @@
+Job Description:
+
+Infrastructure Engineer – Linux 
+
+The Mid-level Linux Systems Administrator will be responsible for all aspects of Linux and Unix Server based systems. Incident management, effective troubleshooting skills, and problem management with root cause resolution are critical requirements of a Mid/Senior Systems Administrator. Additionally, a Mid/Senior Systems Administrator needs to be a leader for the team; mentoring team members to ensure success.  The position assumes full accountability along with the other members of the Operations Support team for delivery of services that meet all business requirements in a timely fashion. The position also collaborates with the Application Services and other IT team to provide a stable and secure server infrastructure.
+ 
+
+Primary Job Responsibilities
+
+Responsible for day-to-day Linux/Unix administration
+Responsible for maintaining access controls and system security
+Participates in change control process for Epiq infrastructure changes
+Responsible for vendor escalations as required
+Ensures systems uptime and stability
+Very good in troubleshooting and production support for Linux
+Ensures process & procedures are followed and documentation is completed when new services are deployed
+Ensures Business Unit needs are met within agreed upon timelines
+Supports Application Services team as needed
+Continually seeks ways to improve services including automation of manual processes
+Primarily this role expectation to handle Linux support task from India late hours shift
+
+Additional International Team Responsibilities
+
+Unix/Linux administration which include but not limited
+Unix/Linux build from scratch
+User/group management
+ scripting, automation, log rotation
+Linux networking, DHCP, DNS
+Permissions and ACLs
+Epiq application installs, upgrades and best practices
+SQL support  - daily support on writing queries, custom queries, assistance in Relativity mobile deployments if needed only
+
+Job Requirements
+
+Experience managing Linux/Unix systems in an enterprise environment  (yes)
+Comfort with most aspects of RedHat 6/7 administration; for example, managing processes and services,  (yes)
+configuration of mail systems, system installation and configuration, printer systems, and fundamentals of security (yes)
+Able to write bash/shell script from scratch to automate tasks (no)
+Knowledge with Ansible and other configuration management tool (yes)
+Knowledge of system performance counters and their meanings    (yes)
+Strong troubleshooting skills with the ability to solve complex issues (yes)
+Strong knowledge of industry standard IT processes and procedures including ITIL standards (yes)
+Background in supporting Highly Available systems (Oracle RAC, other HA environments)  (no)
+Understanding of TCP/IP networking (DNS, DHCP, RSA, VPN)  ( /no )
+Experience using troubleshooting tools (wireshark, tcpdump, etc)
+Experience working with large data volumes and data sets (100-200TB DBs, 5PB NFS shares)
+Experience with system management tools, philosophies, methods
+Experience in Network security practices and strategies
+Experience in integration with Active Directory and security access controls
+Future thinking a must – Requires the ability to change and improve processes
+Ability to program in an administrative language (e.g., Perl, Python)
+Works well alone or on a team
+Strong focus on business outcomes
+Comfort with collaboration, open communications and reaching across functional borders
+Willingness to participate in knowledge sharing via a wiki and source code repository like gitlab
+Understanding of virtualization orchestration, continuous integration, load balancing and clustered SQL/RAC databases.
+Usually works in US day shift hours
+Participate in a weekly on-call rotation
+To be available for ADHOC/planned activities
+
+Nice to have
+
+Experience with large scale patching of Linux systems
+Experience with automation tools and scripting (Puppet, vRealize Automation, Python)
+Experience with Cisco UCS, F5,  and VMWare ESX a plus
+Knowledge of SAN storage (multipathing, zoning and WWNs)
+Basic Windows /VMware
+Networking
+Database Concepts
+
+If you like wild growth and working with happy, enthusiastic over-achievers, you'll enjoy your career with us!
+
+It is Epiq’s policy to comply with all applicable equal employment opportunity laws by making all employment decisions without unlawful regard or consideration of any individual’s race, religion, ethnicity, color, sex, sexual orientation, gender identity or expressions, transgender status, sexual and other reproductive health decisions, marital status, age, national origin, genetic information, ancestry, citizenship, physical or mental disability, veteran or family status or any other basis protected by applicable national, federal, state, provincial or local law. Epiq’s policy prohibits unlawful discrimination based on any of these impermissible bases, as well as any bases or grounds protected by applicable law in each jurisdiction. In addition Epiq will take affirmative action for minorities, women, covered veterans and individuals with disabilities. If you need assistance or an accommodation during the application process because of a disability, it is available upon request. Epiq is pleased to provide such assistance and no applicant will be penalized as a result of such a request.  Pursuant to relevant law, where applicable, Epiq will consider for employment qualified applicants with arrest and conviction records.
