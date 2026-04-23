@@ -1,0 +1,171 @@
+Ansible Administrator
+Jan 2017 - Present
+ch Solutions Inc.
+* Managed and maintained Ansible playbooks for automating infrastructure provisioning and application deployment
+* Collaborated with DevOps team to streamline CI/CD pipelines using
+Ansible Tower
+* Implemented Ansible best practices to improve system reliability and efficiency
+* Led training sessions for junior team members on Ansible usage and best practices
+* Achieved 20% reduction in deployment time through automation initiatives
+Mid-level Ansible Administrator
+Mar 2013 - Dec 2016
+IT Solutions Co.
+* Deployed and configured Ansible roles and modules for managing server infrastructure
+* Assisted in troubleshooting and resolving issues related to Ansible automation scripts
+* Participated in on-call rotation for handling emergency system incidents
+* Documented standard operating procedures for Ansible configuration and maintenance
+* Implemented Ansible Tower for centralized management of playbooks and inventory.
+
+
+Common Responsibilities Listed on Ansible Administrator Resume
+Developing and managing Ansible playbooks and roles for automation tasks.
+Implementing configuration management using Ansible across multiple environments.
+Troubleshooting and resolving issues related to automation and deployment.
+Collaborating with cross-functional teams to streamline IT processes.
+Monitoring system performance and automating routine maintenance tasks.
+Documenting automation processes and maintaining best practices.
+Conducting training sessions for team members on Ansible usage.
+Integrating Ansible with CI/CD pipelines for continuous deployment.
+Managing inventory and configurations across cloud and on-premise environments.
+Ensuring security and compliance in automated processes.
+Participating in the design and architecture of automation solutions.
+
+
+
+1. What is the role of IAM roles and policies?
+2. What is Amazon CloudWatch, and have you configured any custom metrics?
+3. What is AWS Lambda, and how does it work?
+4. How do you invoke a Lambda function, and where do you configure it?
+5. Can you describe how Lambda handles scaling and event-based invocations?
+6.  What metrics are available on your CloudWatch dashboard?
+7.  How do you configure CPU utilization on your CloudWatch dashboard?
+8.  How do you attach an SSL certificate to an S3 bucket?
+9.  If an S3 bucket has a read-only policy, can you modify objects in the bucket?
+10. What type of encryption have you implemented in your project?
+11. How do you attach policies to IAM users, either individually or by group?
+12. Why did you choose Terraform over Boto3 for infrastructure provisioning?
+13. What is a Content Delivery Network (CDN), and how does it work?
+14. Have you created a Jenkins pipeline for your project?
+15. Have you used any tools to create customized Amazon Machine Images (AMIs)?
+    How does an Elastic Load Balancer (ELB) distribute traffic?
+16. What type of deployment strategies are you using in your project?
+17. What is connection draining, and how does it work?
+18.  What is auto-scaling, and how does it work?
+21. Can you describe the different types of Load Balancers and provide examples?
+22. What is the maximum runtime for a Lambda function?
+23. What is the maximum memory size for a Lambda function?
+24. How can you increase the runtime for a Lambda function?
+25. What automations have you performed using Lambda in your project?
+19. What modules have you used in your Lambda function?
+20. Do you use the same AWS account for all environments?
+    If you've exhausted IP addresses in your VPC, how would you provision new resources?
+26. Why did you choose Terraform over Boto3 for infrastructure provisioning?
+27. What is the purpose of access keys and secret keys in AWS?
+28. Have you created an SNS topic for your project?
+29. ====================================================================================
+30. What is Groovy, and how is it used in Jenkins?
+31. Why do you use Groovy in Jenkins, and where do you save Jenkins files?
+32. What is Ansible, and what is its purpose?
+33. What language do you use in Ansible?
+34. Where do you run Terraform code, remotely or locally?
+35. 
+36. What are Terraform modules, and have you used any in your project?
+37. What environments have you set up for your project?
+38. 
+39. Do you have separate Jenkins servers for each environment?
+40. Where do you write and save your Lambda function code? 
+
+ Can you explain the Terraform plan and its purpose?
+
+
+
+
+
+
+
+
+
+
+
+
+Patching & Update Automation:
+Automated system patching and software updates across multiple Linux servers using Ansible playbooks, ensuring consistent version control and minimizing downtime during patch cycles.
+Implemented Ansible Tower for scheduling and managing patching tasks for systems, reducing manual intervention by 90%.
+Integrated security patching tasks ,ensuring timely updates for critical vulnerabilities.
+
+User Management Automation:
+Developed Ansible playbooks to automate user creation, modification, and deletion, enhancing operational efficiency and minimizing errors in user management.
+Implemented role-based access control (RBAC) policies using Ansible to ensure secure user management practices across multiple environments.
+
+System Health & OS Checks:
+Automated regular OS-level system checks using Ansible to monitor system uptime, disk space, CPU utilization, and memory usage, providing proactive alerts and minimizing system failures.
+Configured Ansible playbooks to verify and report system configurations, ensuring compliance with internal security standards and best practices.
+
+Software Installation & Configuration:
+Created reusable Ansible roles for automating the installation and configuration of commonly used software packages, including web servers (Nginx/Apache), databases (MySQL/PostgreSQL), and monitoring tools (Nagios, Prometheus).
+Developed playbooks to install and configure necessary software on bare-metal and virtual machines, reducing manual installation time by 80%.
+
+System Performance Monitoring & Optimization:
+Developed performance monitoring playbooks to check key system metrics (CPU, memory, disk usage) and generate reports for proactive resource management and troubleshooting.
+Automated performance tuning tasks for frequently accessed systems, such as optimizing database and web server configurations using Ansible.
+===================================================================================================================================================
+ General Ansible Experience
+Question: With 3 years of experience using Ansible, how would you describe your overall experience? What types of tasks have you automated most frequently using Ansible?
+Question: Can you give an example of a complex problem you solved using Ansible in your last role? What modules or features of Ansible were most helpful in that scenario?
+Question: What are the key benefits you’ve experienced from using Ansible over other configuration management tools (e.g., Puppet, Chef)?
+2. Playbooks & Roles
+Question: Can you describe a project where you developed a custom Ansible playbook for automating Linux system configurations? How did you structure it, and what challenges did you face?
+Question: How do you ensure your Ansible playbooks are reusable and modular, especially when working with large infrastructures?
+Question: In your experience, how do you manage playbook versioning and collaboration in a team environment? Do you use Git or other tools?
+3. User Management Automation
+Question: You mentioned automating user creation and deletion with Ansible. How do you ensure that the right permissions are assigned to users, and how do you handle role-based access control (RBAC)?
+Question: Can you walk us through an example where you used Ansible to enforce security policies related to user management on a large number of servers?
+4. System Health Checks & Monitoring
+Question: How have you used Ansible to automate regular health checks of Linux systems (e.g., checking disk space, memory, CPU usage)? Can you provide a real-world example of how you integrated these checks into your automation workflow?
+Question: Have you ever used Ansible to monitor the system’s resource utilization? How do you configure alerts if certain thresholds are breached?
+5. Software Installation & Configuration
+Question: In your experience, how do you handle software installation using Ansible? Can you give an example of automating the installation of a complex software stack (e.g., web server, database) using Ansible?
+Question: How do you ensure that the software versions and configurations remain consistent across different environments using Ansible?
+6. Performance Optimization & Troubleshooting
+Question: How do you use Ansible to optimize system performance (e.g., adjusting resource limits, tuning performance-related configurations)?
+Question: Can you share an example of a performance issue you encountered in your infrastructure and how you used Ansible to identify and resolve it?
+Question: How do you troubleshoot Ansible playbooks that fail on certain hosts? What debugging strategies do you use in such cases?
+7. Security & Compliance
+Question: How do you ensure your playbooks are secure, especially when automating critical tasks like patching or managing sensitive information?
+Question: Can you describe a time when you used Ansible to automate the application of security patches or compliance checks on your Linux servers?
+Question: How do you manage sensitive data, such as passwords and API keys, in your Ansible playbooks? Have you worked with Ansible Vault for this purpose?
+8. Automation of Backups & Recovery
+Question: Have you used Ansible to automate backup processes for Linux servers? How do you integrate backup strategies into your playbooks?
+Question: Can you walk us through a scenario where you automated a recovery process using Ansible in case of system failure?
+9. Ansible Inventory Management
+Question: How do you manage your inventory files in Ansible? Have you worked with dynamic inventories, and if so, how did you configure them for cloud environments (e.g., AWS, Azure)?
+Question: How do you manage inventory groups and variables for multiple environments, such as staging and production, in Ansible?
+10. CI/CD Integration
+Question: Can you describe how you’ve integrated Ansible into a CI/CD pipeline for automating infrastructure provisioning or configuration management?
+Question: How do you ensure that Ansible playbooks are tested in your CI/CD pipeline before being deployed to production systems?
+11. Ansible Tower/AWX Experience
+Question: Have you worked with Ansible Tower or AWX (open-source version)? How did you leverage these tools to manage and scale Ansible operations?
+Question: What are the key features of Ansible Tower that you have used, and how did they help in your day-to-day tasks?
+12. Error Handling & Debugging
+Question: How do you handle errors in your Ansible playbooks? Can you provide an example of a situation where you had to debug a failing playbook?
+Question: Can you explain how you use Ansible’s debug module and error handling features to troubleshoot and improve your playbooks?
+13. Performance & Optimization
+Question: How do you optimize the performance of your Ansible playbooks when running against a large number of hosts?
+Question: Have you ever had to use async or poll parameters in your playbooks? How did they improve the execution time or performance?
+14. Ansible Galaxy and Community Roles
+Question: Have you used any community roles from Ansible Galaxy? How do you evaluate which roles to use, and how do you ensure they’re compatible with your infrastructure?
+Question: Have you contributed to the Ansible community by creating or sharing any roles on Ansible Galaxy?
+15. Version Control & Collaboration
+Question: How do you manage playbook development and collaboration with your team? Do you use version control systems like Git? How do you handle branching and merging for Ansible projects?
+Question: How do you ensure that your Ansible playbooks and configurations are maintainable over time?
+
+
+
+
+
+
+
+
+
+
+
