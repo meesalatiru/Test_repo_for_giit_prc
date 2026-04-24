@@ -11,7 +11,7 @@ jobs:
 
     steps:
       - name: Checkout code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4   # updated
 
       - name: Install Ansible
         run: |
@@ -26,4 +26,6 @@ jobs:
           ssh-keyscan -H 18.219.28.179 >> ~/.ssh/known_hosts
 
       - name: Run Ansible Playbook
-        run: ansible-playbook -i inventory playbook.yml
+        run: |
+          export ANSIBLE_HOST_KEY_CHECKING=False
+          ansible-playbook -i inventory playbook.yml -vvv
