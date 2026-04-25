@@ -1,9 +1,0 @@
-- name: Test Ansible
-  hosts: target
-  become: yes
-
-  tasks:
-    - name: Create user devops
-      user:
-        name: devops
-        state: present
