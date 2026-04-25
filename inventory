@@ -1,2 +1,2 @@
-[target]
-18.219.28.179 ansible_user=ubuntu
+[app]
+serverB ansible_host=172.31.34.4 ansible_user=ubuntu
