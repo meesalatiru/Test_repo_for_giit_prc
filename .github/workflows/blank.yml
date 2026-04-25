@@ -11,21 +11,25 @@ jobs:
 
     steps:
       - name: Checkout code
-        uses: actions/checkout@v4   # updated
+        uses: actions/checkout@v4
 
       - name: Install Ansible
         run: |
           sudo apt update
-          sudo apt install ansible -y
+          sudo apt install -y ansible
 
       - name: Setup SSH
         run: |
+          set -e
           mkdir -p ~/.ssh
-          echo "${{ secrets.SSH_PRIVATE_KEY }}" > ~/.ssh/id_ed25519
-          chmod 600 ~/.ssh/id_ed25519
+          echo "${{ secrets.SSH_PRIVATE_KEY }}" > ~/.ssh/id_rsa
+          chmod 600 ~/.ssh/id_rsa
           ssh-keyscan -H 18.216.128.146 >> ~/.ssh/known_hosts
 
       - name: Run Ansible Playbook
         run: |
           export ANSIBLE_HOST_KEY_CHECKING=False
-          ansible-playbook -i inventory playbook.yml -vvv
+          ansible-playbook -i inventory playbook.yml \
+          --private-key ~/.ssh/id_rsa \
+          -u ubuntu \
+          -vvv
